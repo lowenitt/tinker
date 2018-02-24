@@ -1,5 +1,5 @@
-# Contributing to Tinker
-Welcome to [report Issues](https://github.com/Tencent/tinker/issues) or [pull requests](https://github.com/Tencent/tinker/pulls). It's recommended to read the following Contributing Guide first before contributing. 
+# Contributing to bk-cmdb
+Welcome to [report Issues](https://github.com/Tencent/bk-cmdb/issues) or [pull requests](https://github.com/Tencent/bk-cmdb/pulls). It's recommended to read the following Contributing Guide first before contributing. 
 
 ## Issues
 We use Github Issues to track public bugs and feature requests.
@@ -11,7 +11,7 @@ Please search the existing issues to see if any similar issue or feature request
 If you open an issue, the more information the better. Such as detailed description, screenshot or video of your problem, logcat or code blocks for your crash.
 
 ## Pull Requests
-We strongly welcome your pull request to make Tinker better. 
+We strongly welcome your pull request to make bk-cmdb better. 
 
 ### Branch Management
 There are three main branches here:
@@ -51,10 +51,10 @@ Before submitting a pull request, please make sure the followings are done:
 6. Now, you can submit your pull request on `dev` or `hotfix` branch.
 
 ## Code Style Guide
-Use [Code Style](https://github.com/Tencent/tinker/blob/master/checkstyle.xml) for Java and Android.
+Use [Code Style](https://github.com/Tencent/bk-cmdb/blob/master/checkstyle.xml) for Java and Android.
 
 * 4 spaces for indentation rather than tabs
 
 ## License
-By contributing to Tinker, you agree that your contributions will be licensed
-under its [BSD LICENSE](https://github.com/Tencent/tinker/blob/master/LICENSE)
+By contributing to bk-cmdb, you agree that your contributions will be licensed
+under its [BSD LICENSE](https://github.com/Tencent/bk-cmdb/blob/master/LICENSE)
